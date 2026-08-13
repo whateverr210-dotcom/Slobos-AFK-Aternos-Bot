@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": MountainSideSMP.aternos.me,
+    "ip": MountainSideSMP.aternos.me",
     "port": 44456,
     "version": "",
     "try-creative": false
